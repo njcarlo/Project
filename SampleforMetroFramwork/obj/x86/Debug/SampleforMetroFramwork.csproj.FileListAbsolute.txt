@@ -21,3 +21,22 @@ C:\Users\DS\Documents\Visual Studio 2010\Projects\SampleforMetroFramwork\Samplef
 C:\Users\DS\Documents\Visual Studio 2010\Projects\SampleforMetroFramwork\SampleforMetroFramwork\obj\x86\Debug\SampleforMetroFramwork.pdb
 C:\Users\DS\Documents\GitHub\Project\SampleforMetroFramwork\obj\x86\Debug\SampleforMetroFramwork.exe
 C:\Users\DS\Documents\GitHub\Project\SampleforMetroFramwork\obj\x86\Debug\SampleforMetroFramwork.pdb
+C:\Users\JC Navarro\Documents\GitHub\Project\SampleforMetroFramwork\bin\Debug\SampleforMetroFramwork.exe
+C:\Users\JC Navarro\Documents\GitHub\Project\SampleforMetroFramwork\bin\Debug\SampleforMetroFramwork.pdb
+C:\Users\JC Navarro\Documents\GitHub\Project\SampleforMetroFramwork\bin\Debug\ControlzEx.dll
+C:\Users\JC Navarro\Documents\GitHub\Project\SampleforMetroFramwork\bin\Debug\MahApps.Metro.dll
+C:\Users\JC Navarro\Documents\GitHub\Project\SampleforMetroFramwork\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\JC Navarro\Documents\GitHub\Project\SampleforMetroFramwork\bin\Debug\ControlzEx.pdb
+C:\Users\JC Navarro\Documents\GitHub\Project\SampleforMetroFramwork\bin\Debug\MahApps.Metro.pdb
+C:\Users\JC Navarro\Documents\GitHub\Project\SampleforMetroFramwork\bin\Debug\MahApps.Metro.xml
+C:\Users\JC Navarro\Documents\GitHub\Project\SampleforMetroFramwork\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.xml
+C:\Users\JC Navarro\Documents\GitHub\Project\SampleforMetroFramwork\obj\x86\Debug\SampleforMetroFramwork.csprojResolveAssemblyReference.cache
+C:\Users\JC Navarro\Documents\GitHub\Project\SampleforMetroFramwork\obj\x86\Debug\SampleforMetroFramwork.Login.resources
+C:\Users\JC Navarro\Documents\GitHub\Project\SampleforMetroFramwork\obj\x86\Debug\SampleforMetroFramwork.Payment.resources
+C:\Users\JC Navarro\Documents\GitHub\Project\SampleforMetroFramwork\obj\x86\Debug\SampleforMetroFramwork.Properties.Resources.resources
+C:\Users\JC Navarro\Documents\GitHub\Project\SampleforMetroFramwork\obj\x86\Debug\SampleforMetroFramwork.Menuform.resources
+C:\Users\JC Navarro\Documents\GitHub\Project\SampleforMetroFramwork\obj\x86\Debug\SampleforMetroFramwork.RegisterMenu.resources
+C:\Users\JC Navarro\Documents\GitHub\Project\SampleforMetroFramwork\obj\x86\Debug\SampleforMetroFramwork.csproj.GenerateResource.Cache
+C:\Users\JC Navarro\Documents\GitHub\Project\SampleforMetroFramwork\obj\x86\Debug\SampleforMetroFramwork.csproj.CoreCompileInputs.cache
+C:\Users\JC Navarro\Documents\GitHub\Project\SampleforMetroFramwork\obj\x86\Debug\SampleforMetroFramwork.exe
+C:\Users\JC Navarro\Documents\GitHub\Project\SampleforMetroFramwork\obj\x86\Debug\SampleforMetroFramwork.pdb
