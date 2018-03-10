@@ -230,5 +230,15 @@ namespace SampleforMetroFramwork
             reset();
             RegPanel.Visible = true;
         }
+
+        private void metroTextBox5_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void metroGrid1_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+
+        }
     }
 }
