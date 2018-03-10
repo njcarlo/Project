@@ -58,3 +58,4 @@ C:\Users\JC Navarro\Documents\GitHub\Project\SampleforMetroFramwork\bin\Debug\Cr
 C:\Users\JC Navarro\Documents\GitHub\Project\SampleforMetroFramwork\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
 C:\Users\JC Navarro\Documents\GitHub\Project\SampleforMetroFramwork\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
 C:\Users\JC Navarro\Documents\GitHub\Project\SampleforMetroFramwork\bin\Debug\stdole.dll
+C:\Users\DS\Documents\GitHub\Project\SampleforMetroFramwork\bin\Debug\SampleforMetroFramwork.exe.config
