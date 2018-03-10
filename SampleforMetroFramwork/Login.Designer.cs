@@ -51,7 +51,7 @@
             this.metroLabel1.Location = new System.Drawing.Point(55, 215);
             this.metroLabel1.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.metroLabel1.Name = "metroLabel1";
-            this.metroLabel1.Size = new System.Drawing.Size(68, 19);
+            this.metroLabel1.Size = new System.Drawing.Size(73, 20);
             this.metroLabel1.TabIndex = 1;
             this.metroLabel1.Text = "Username";
             // 
@@ -61,7 +61,7 @@
             this.metroLabel2.Location = new System.Drawing.Point(55, 251);
             this.metroLabel2.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.metroLabel2.Name = "metroLabel2";
-            this.metroLabel2.Size = new System.Drawing.Size(63, 19);
+            this.metroLabel2.Size = new System.Drawing.Size(66, 20);
             this.metroLabel2.TabIndex = 2;
             this.metroLabel2.Text = "Password";
             // 
@@ -156,7 +156,7 @@
             // 
             // Login
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("$this.BackgroundImage")));
             this.BackImage = ((System.Drawing.Image)(resources.GetObject("$this.BackImage")));
