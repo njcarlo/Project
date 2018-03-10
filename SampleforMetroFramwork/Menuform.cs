@@ -11,12 +11,16 @@ namespace SampleforMetroFramwork
 {
     public partial class Menuform : MetroFramework.Forms.MetroForm
     {
+       
+
         public Menuform()
         {
 
             InitializeComponent();
             reset();
-           
+            
+
+
         }
 
         public void reset() {
@@ -25,6 +29,7 @@ namespace SampleforMetroFramwork
             createPanel.Visible = false;
             UpdatePanel.Visible = false;
             BillingPanel.Visible = false;
+            
 
 
         }
@@ -44,6 +49,7 @@ namespace SampleforMetroFramwork
             RegisterMenu Studinfo = new RegisterMenu();
             Studinfo.Show();
             this.Hide();
+            StudNum1.Text = DateTime.Now.ToString("yyyy");
         }
 
         private void pictureBox2_Click(object sender, EventArgs e)
@@ -168,6 +174,10 @@ namespace SampleforMetroFramwork
         {
             reset();
             createPanel.Visible = true;
+
+
+            DateTime.Now.ToString("dd/MM/yyyy");
+            metroTextBox55.Text = DateTime.Now.ToString("yyyy");
         }
 
         private void metroLabel26_Click(object sender, EventArgs e)
