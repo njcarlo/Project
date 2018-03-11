@@ -25,24 +25,24 @@ namespace SampleforMetroFramwork
         public DatabaseFunctions()
         {
             Initialize();
+           
         }
 
         //Initialize values
         private void Initialize()
         {
             server = "localhost";
-            database = "menstranspo";
+            database = "drci_schema";
             uid = "jc";
             password = "secret";
             string connectionString;
             connectionString = "SERVER=" + server + ";" + "DATABASE=" +
             database + ";" + "UID=" + uid + ";" + "PASSWORD=" + password + ";";
-
             connection = new MySqlConnection(connectionString);
         }
 
         //open connection to database
-        private bool OpenConnection()
+        public bool OpenConnection()
         {
             try
             {
@@ -71,7 +71,7 @@ namespace SampleforMetroFramwork
         }
 
         //Close connection
-        private bool CloseConnection()
+        public bool CloseConnection()
         {
             try
             {
