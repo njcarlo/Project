@@ -131,6 +131,9 @@
     <EmbeddedResource Include="RegisterMenu.resx">
       <DependentUpon>RegisterMenu.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="TransactionReciept.resx">
+      <DependentUpon>TransactionReciept.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="TransactionReciept.rpt">
       <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
       <LastGenOutput>TransactionReciept.cs</LastGenOutput>
