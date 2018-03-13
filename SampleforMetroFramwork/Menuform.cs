@@ -49,7 +49,7 @@ namespace SampleforMetroFramwork
             RegisterMenu Studinfo = new RegisterMenu();
             Studinfo.Show();
             this.Hide();
-            StudNum1.Text = DateTime.Now.ToString("yyyy");
+            StudNum1_TB.Text = DateTime.Now.ToString("yyyy");
         }
 
         private void pictureBox2_Click(object sender, EventArgs e)
