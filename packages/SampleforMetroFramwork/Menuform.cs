@@ -21,10 +21,10 @@ namespace SampleforMetroFramwork
 
         public void reset() {
             
-            RegPanel.Visible = false;
-            createPanel.Visible = false;
-            UpdatePanel.Visible = false;
-            BillingPanel.Visible = false;
+            RegisterMenu_Pn.Visible = false;
+            CreateMenu_Tc.Visible = false;
+            UpdateMenu_Tc.Visible = false;
+            BillingMenu_Pn.Visible = false;
 
 
         }
@@ -139,7 +139,7 @@ namespace SampleforMetroFramwork
         private void metroButton7_Click(object sender, EventArgs e)
         {
             reset();
-            RegPanel.Visible = true;
+            RegisterMenu_Pn.Visible = true;
            
 
         }
@@ -167,7 +167,7 @@ namespace SampleforMetroFramwork
         private void metroButton1_Click_1(object sender, EventArgs e)
         {
             reset();
-            createPanel.Visible = true;
+            CreateMenu_Tc.Visible = true;
         }
 
         private void metroLabel26_Click(object sender, EventArgs e)
@@ -178,13 +178,13 @@ namespace SampleforMetroFramwork
         private void metroButton6_Click_1(object sender, EventArgs e)
         {
             reset();
-            RegPanel.Visible = true;
+            RegisterMenu_Pn.Visible = true;
         }
 
         private void metroButton11_Click(object sender, EventArgs e)
         {
             reset();
-            RegPanel.Visible = true;
+            RegisterMenu_Pn.Visible = true;
         }
 
         private void metroButton10_Click_1(object sender, EventArgs e)
@@ -200,25 +200,40 @@ namespace SampleforMetroFramwork
         private void metroButton3_Click(object sender, EventArgs e)
         {
             reset();
-            BillingPanel.Visible = true;
+            BillingMenu_Pn.Visible = true;
         }
 
         private void metroButton2_Click(object sender, EventArgs e)
         {
             reset();
-            UpdatePanel.Visible = true;
+            UpdateMenu_Tc.Visible = true;
         }
 
         private void metroButton15_Click(object sender, EventArgs e)
         {
             reset();
-            RegPanel.Visible = true;
+            RegisterMenu_Pn.Visible = true;
         }
 
         private void metroButton15_Click_1(object sender, EventArgs e)
         {
             reset();
-            RegPanel.Visible = true;
+            RegisterMenu_Pn.Visible = true;
+        }
+
+        private void metroPanel9_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
+        private void metroLabel36_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void metroLabel15_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }

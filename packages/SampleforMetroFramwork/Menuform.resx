@@ -118,7 +118,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
-  <data name="pictureBox1.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+  <data name="LgoandName_Pc.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         iVBORw0KGgoAAAANSUhEUgAAAxwAAABUCAIAAACHhqbDAAAABGdBTUEAALGOfPtRkwAAACBjSFJNAACH
         DwAAjA8AAP1SAACBQAAAfXkAAOmLAAA85QAAGcxzPIV3AAAKOWlDQ1BQaG90b3Nob3AgSUNDIHByb2Zp
@@ -517,7 +517,7 @@
         AAAASUVORK5CYII=
 </value>
   </data>
-  <data name="metroButton3.BackgroundImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+  <data name="SMP_Billing_Bn.BackgroundImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAL
         EwAACxMBAJqcGAAACupJREFUeF7VmglwE9cZx80xmXYwh82VkhaYpkOSYabNlARsfGEDLTMJnTThGigk
@@ -570,7 +570,7 @@
         SUVORK5CYII=
 </value>
   </data>
-  <data name="metroButton7.BackgroundImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+  <data name="SMP_Registration_Bn.BackgroundImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAABGdBTUEAALGPC/xhBQAAEnxJREFUeF7t
         mXl01NXZxy8WbUFbkX0RsmAUeMFiEaXUfQPUA4JWZFNkq2DIgIpVQWR5KQllU/ZgAmTfJ5mE7AnZl8kC
@@ -655,7 +655,7 @@
         RK5CYII=
 </value>
   </data>
-  <data name="pictureBox2.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+  <data name="SMP_UserImage_Pc.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAMAAAAJbSJIAAAABGdBTUEAALGPC/xhBQAAAVlQTFRF////
         /+rP/5gRAKGnANffv3IN/7mn/9ag/+zQAJ2l/+7RUEEuAJ+mAL3E/5EAyNTD/5gA6GZ9AKGk9Pv7u2gA
@@ -739,7 +739,7 @@
         whhGCmNJoPDatf8DFbKHAqo2gdMAAAAASUVORK5CYII=
 </value>
   </data>
-  <data name="metroButton1.BackgroundImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+  <data name="RM_CreateStudent_Bn.BackgroundImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAL
         EwAACxMBAJqcGAAAASBJREFUWEftljFuwjAYRiNEZ3bEVo7SvXAEtl6gMDEwcISeoGKiJ6i4ABLqzow6
@@ -750,7 +750,7 @@
         7B++Xh2hCuScBQAAAABJRU5ErkJggg==
 </value>
   </data>
-  <data name="metroButton2.BackgroundImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+  <data name="RM_UpdateStudent_Bn.BackgroundImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAL
         EwAACxMBAJqcGAAAAoJJREFUaEPtmM1r1EAYxlNsFUrBg4isuuxudmOywVsKPYkHe+jJv6AHxU+8Kb14
@@ -767,7 +767,7 @@
         l+O10QAAAABJRU5ErkJggg==
 </value>
   </data>
-  <data name="metroTextBox1.Icon" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+  <data name="RM_SearchStudent_Tb.Icon" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAYAAADDPmHLAAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAL
         EwAACxMBAJqcGAAAEqlJREFUeF7tnflXVGeax53p2bqn58c5PTmz9JyZ7unpM33O/Ak9c2Y6bTanXVAj
@@ -853,7 +853,7 @@
         AAAASUVORK5CYII=
 </value>
   </data>
-  <data name="metroButton4.BackgroundImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+  <data name="RM_SearchStudent_Bn.BackgroundImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAL
         EwAACxMBAJqcGAAAAlFJREFUOE+dlP9LE3EYxw/6of66+iH6Yt7dCEIyTAplSRTRL0K/xLT0bmkERRm2

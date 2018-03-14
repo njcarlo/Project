@@ -230,5 +230,10 @@ namespace SampleforMetroFramwork
             reset();
             RegPanel.Visible = true;
         }
+
+        private void metroPanel1_Paint_2(object sender, PaintEventArgs e)
+        {
+
+        }
     }
 }
