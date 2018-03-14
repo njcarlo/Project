@@ -861,7 +861,6 @@
             this.metroButton3.Text = "Billing";
             this.metroButton3.TextAlign = System.Drawing.ContentAlignment.TopLeft;
             this.metroButton3.UseSelectable = true;
-            this.metroButton3.UseVisualStyleBackColor = false;
             this.metroButton3.Click += new System.EventHandler(this.metroButton3_Click);
             // 
             // metroLabel2
@@ -889,7 +888,6 @@
             this.metroButton7.Text = "Registration";
             this.metroButton7.TextAlign = System.Drawing.ContentAlignment.TopLeft;
             this.metroButton7.UseSelectable = true;
-            this.metroButton7.UseVisualStyleBackColor = false;
             this.metroButton7.Click += new System.EventHandler(this.metroButton7_Click);
             // 
             // pictureBox2
@@ -928,7 +926,6 @@
             this.metroButton1.Text = "Create Student";
             this.metroButton1.TextAlign = System.Drawing.ContentAlignment.TopLeft;
             this.metroButton1.UseSelectable = true;
-            this.metroButton1.UseVisualStyleBackColor = false;
             this.metroButton1.Click += new System.EventHandler(this.metroButton1_Click_1);
             // 
             // metroButton2
@@ -946,7 +943,6 @@
             this.metroButton2.Text = "Update Student";
             this.metroButton2.TextAlign = System.Drawing.ContentAlignment.TopLeft;
             this.metroButton2.UseSelectable = true;
-            this.metroButton2.UseVisualStyleBackColor = false;
             this.metroButton2.Click += new System.EventHandler(this.metroButton2_Click);
             // 
             // metroTextBox1
@@ -1028,7 +1024,6 @@
             this.createPanel.Controls.Add(this.tabPage3);
             this.createPanel.Location = new System.Drawing.Point(286, 147);
             this.createPanel.Name = "createPanel";
-            this.createPanel.Padding = new System.Drawing.Point(6, 8);
             this.createPanel.SelectedIndex = 0;
             this.createPanel.Size = new System.Drawing.Size(849, 522);
             this.createPanel.SizeMode = System.Windows.Forms.TabSizeMode.Fixed;
@@ -2044,7 +2039,6 @@
             this.UpdatePanel.Controls.Add(this.tabPage6);
             this.UpdatePanel.Location = new System.Drawing.Point(286, 150);
             this.UpdatePanel.Name = "UpdatePanel";
-            this.UpdatePanel.Padding = new System.Drawing.Point(6, 8);
             this.UpdatePanel.SelectedIndex = 0;
             this.UpdatePanel.Size = new System.Drawing.Size(849, 522);
             this.UpdatePanel.SizeMode = System.Windows.Forms.TabSizeMode.Fixed;
